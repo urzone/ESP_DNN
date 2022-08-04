@@ -1,0 +1,8 @@
+*.pyc
+logs
+input
+data_io.py
+*_opt.py
+test
+temp
+.vscode

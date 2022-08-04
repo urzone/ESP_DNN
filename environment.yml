@@ -1,0 +1,12 @@
+name: esp-dnn-env
+channels:
+  - rdkit
+  - conda-forge
+
+dependencies:
+  - rdkit==2019.03.4
+  - keras==2.2.4
+  - tensorflow==1.14.0
+  - numpy==1.17.2
+  - python=3.7
+  - xarray==0.14.0
